@@ -20,20 +20,6 @@ A comprehensive console application demonstrating fundamental C# and .NET concep
 | System.Text.Json | Built-in | JSON Serialization |
 | Task Parallel Library | Built-in | Async Operations |
 
-## 📦 Project Structure
-Projact1/
-├── README.md
-├── Program.cs
-├── Projact1.csproj
-├── Models/
-│   └── Employee.cs
-├── Services/
-│   ├── DataLoader.cs
-│   └── JsonStorage.cs
-└── employees.json (created at runtime) 
-
-
-
 ## 🔧 Installation & Setup
 
 ### Prerequisites
